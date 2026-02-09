@@ -1,6 +1,7 @@
-StudentID,FirstName,LastName,Email,Program,EnrollmentDate
-1,Madrina,Nalwoga,madrinenalwoga16@student.com,Computer Science,2025-01-15
-2,John,Smith,john.smith@student.com,Software Engineering,2025-01-15
-3,Sarah,Johnson,sarah.johnson@student.com,Information Technology,2025-01-20
-4,Michael,Brown,michael.brown@student.com,Computer Science,2025-01-20
-5,Emily,Davis,emily.davis@student.com,Data Science,2025-02-01
+FirstName,LastName - Program-EnrollmentDate-StudentID
+Gift Gideon Ogwang- VU-BCS-2503-0706-EVE
+Deborah Suubi- VU-DIT-2503-1213-EVE
+Oscar Mathew Nyeba - VU-BCS-2503-1204-EVE
+Madrine Nalwoga- VU-BIT-2503-2460-EVE
+Precious Namagambe - VU-BSC-2503-0355-EVE
+Brian Kintu - VU-DIT-2503-0306-EVE
